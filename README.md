@@ -13,3 +13,5 @@ There is no plugin config file as I attempted to make this plugin as lightweight
 It is highly recommended you use this plugin with a paper-spigot server as paper enables you to respawn the dragon egg with each dragon death (check paper.yml in server folder). 
 
 It is planned that I add a plugin configuration file, but at this time, I currently have no time to get this done. Along with other things, it will happen eventually, as well as bugfixes and additional features.
+
+Furthermore, I know my programming is probably inefficient, cut me some slack.
