@@ -1,0 +1,17 @@
+name: EndSMPTweaks
+version: 1.0
+main: me.AccedePro.EndSMPTweaks
+api-version: 1.16
+prefix: EndSMPTweaks
+authors: [AccedePro]
+description: A lightweight plugin designed to make the final end fight more equal and balanced for people on multiplayer servers.
+commands:
+  edtlist:
+    description: Null
+    usage: /edtlist
+  edtplayers:
+    description: Null
+    usage: /edtplayers
+  edtworld:
+    description: Null
+    usage: /edtworld
