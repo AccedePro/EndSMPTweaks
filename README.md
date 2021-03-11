@@ -1,4 +1,7 @@
 # EndSMPTweaks
+
+Minecraft Version: (1.16.5)
+
 EndSMPTweaks is a Minecraft plugin designed to make ender dragon battles more fair on survival-multiplayer servers.
 
 There is no plugin config file as I attempted to make this plugin as lightweight as possible but there are some key features:
